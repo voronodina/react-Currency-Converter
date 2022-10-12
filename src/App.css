@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.calc {
+  display: grid;
+  grid-template-areas: 'Evro Dolar Bitcoin';
+}
+.block{
+  width:100%;
+  }
+   
+  .block p {
+  color:#212121;
+  font-size:20px;
+  margin: 5px;
+  }
+.bec {
+  background: gold;
+}
+
+.hedpos {
+  width: 100%;
+  display: grid;
+  grid-template-areas: 'ChildHed ChildHed ChildHed ChildHed ChildHed ChildHed';
+}
